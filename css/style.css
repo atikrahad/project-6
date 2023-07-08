@@ -109,3 +109,23 @@ h1{
 .contact h4{
     font-size: 16px;
 }
+.skills-container{
+    margin: 50px 230px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+.skills{
+    padding: 25px;
+    background-color: #FFF;
+    box-shadow: 2px 6px 50px 8px rgba(0, 0, 0, 0.06);
+    
+}
+.skills p{
+    margin: 15px 0;
+    text-align: justify;
+}
+.skills h3{
+    margin: 15px 0;
+}
