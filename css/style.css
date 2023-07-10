@@ -167,3 +167,41 @@ h1{
     justify-content: center;
     padding: 20px 0;
 }
+footer{
+    
+    background-color: #FFF8F3;
+}
+.footers{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 230px;
+    padding-top: 50px;
+}
+.connect h1{
+    color: #181818;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 15px;
+
+}
+.connect p{
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 15px 15px 0;
+    margin-right: 200px;
+}
+.connect ul{
+    display: flex;
+    gap:30px;
+    margin-top: 15px;
+}
+.connect ul li{
+    list-style: none;
+}
+.last-color{
+    color: #FD6E0A;
+}
+.massage-form{
+
+}
