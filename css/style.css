@@ -177,6 +177,9 @@ footer{
     margin: 0 230px;
     padding-top: 50px;
 }
+.connect{
+    margin-right: 35px;
+}
 .connect h1{
     color: #181818;
     font-size: 36px;
@@ -203,5 +206,20 @@ footer{
     color: #FD6E0A;
 }
 .massage-form{
-
+    padding-bottom: 40px;
+}
+.massage-form h1{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0 0 20px 0;
+}
+form input{
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    max-width: 500px;
+}
+form textarea{
+    margin: 10px 0 0 0;
+    border-radius: 5px;
 }
